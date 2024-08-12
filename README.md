@@ -10,7 +10,7 @@ This project sets up a Virtual Private Cloud (VPC) with the following components
 - Bastion Host for connecting to servers in private subnets.
 
 ## Architecture Diagram
-![Architecture Diagram](https://example.com/architecture-diagram.png)
+![Architecture Diagram](https://docs.aws.amazon.com/images/vpc/latest/userguide/images/vpc-example-private-subnets.png)
 
 ## Steps to Perform the Project
 
